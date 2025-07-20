@@ -1,0 +1,18 @@
+[
+    {
+        "title": "AI StudyBuddy",
+        "description": "Problem: Students often struggle to find relevant YouTube videos or notes for a concept.\nChallenge: Build an AI agent that suggests YouTube videos, blogs, or lecture notes based on a typed topic ."
+    },
+    {
+        "title": "EduGame: Learn While You Play",
+        "description": "Problem: Learning AI/DS basics is boring for many students.\nChallenge: Build a mini browser game (quiz/puzzle) that teaches AI/ML basics interactively."
+    },
+    {
+        "title": "EcoTrack \u2013 AI for Daily Sustainability",
+        "description": "Problem: People want to track their carbon footprint but don\u2019t know how.\nChallenge: Create a tool that scans a product or activity (like commuting, using plastic), and estimates its environmental impact using AI.\n\n"
+    },
+    {
+        "title": "HackGPT Challenge Generator",
+        "description": "Problem: Hackathon organizers need creative problem statements.\nChallenge: Build an AI bot that generates 5 challenge ideas based on a theme using GPT\n"
+    }
+]
